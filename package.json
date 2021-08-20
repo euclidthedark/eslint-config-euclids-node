@@ -1,0 +1,28 @@
+{
+  "name": "eslint-config-euclids-node",
+  "version": "0.0.0",
+  "description": "This is a shareable node eslint config.",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "keywords": [
+    "node",
+    "eslint"
+  ],
+  "author": "euclidthedark",
+  "license": "ISC",
+  "dependencies": {},
+  "devDependencies": {
+    "eslint": "7.32.0",
+    "eslint-config-airbnb-base": "14.2.1",
+    "eslint-plugin-chai-friendly": "0.7.2",
+    "eslint-plugin-import": "2.24.1",
+    "eslint-plugin-mocha": "9.0.0"
+  },
+  "peerDependencies": {
+    "eslint": "7.32.0",
+    "eslint-plugin-chai-friendly": "0.7.2",
+    "eslint-plugin-mocha": "9.0.0"
+  }
+}
